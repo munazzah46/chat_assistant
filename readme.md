@@ -12,4 +12,4 @@ This is a simple chatbot built using Python and NLTK for CodTech's internship ta
 
 ## Run the chatbot
 ```bash
-python codtech_bot.py
+python chat_assistant.py
